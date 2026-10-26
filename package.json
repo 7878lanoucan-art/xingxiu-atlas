@@ -1,0 +1,18 @@
+{
+  "name": "xingxiu-atlas",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build:effects": "node build-effects.mjs"
+  },
+  "dependencies": {
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "ogl": "1.0.11"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.11"
+  },
+  "packageManager": "pnpm@10.11.0"
+}
